@@ -53,17 +53,9 @@ For a complete list of requirements, see `requirements.txt`.
    LUMAAI_API_KEY=your_luma_ai_api_key_here
    ```
 
-5. Initialize the database:
-   ```
-   python
-   >>> from luma-flux-image-video-gen import init_db
-   >>> init_db()
-   >>> exit()
-   ```
-
 6. Run the application:
    ```
-   python luma-flux-image-video-gen.py
+   python app.py
    ```
 
 7. Open your web browser and navigate to `http://localhost:5000` to use the application.
