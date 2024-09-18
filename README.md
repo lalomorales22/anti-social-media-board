@@ -5,6 +5,12 @@ Rad Message Board is a Flask-based web application that allows users to post mes
 
 ## Features
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d47e7d62-ec72-4ede-9339-36a6c6fb5cf8" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/f54bc516-65b1-4644-8006-3087bafbf79b" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/dfc4397e-5355-4d7a-b046-c3e571c553c4" alt="Screenshot 3" width="200"/>
+</p>
+
 - User registration and authentication
 - Posting messages with text, generated images, and generated videos
 - Commenting on messages
@@ -14,6 +20,7 @@ Rad Message Board is a Flask-based web application that allows users to post mes
 - Real-time updates using Socket.IO
 - Integration with Stability AI for image generation
 - Integration with Luma AI for video generation
+
 
 ## Requirements
 
