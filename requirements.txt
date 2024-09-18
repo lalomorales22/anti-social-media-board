@@ -1,0 +1,6 @@
+Flask
+Flask-SocketIO
+Flask-Login
+python-dotenv
+requests
+Werkzeug
