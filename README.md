@@ -38,7 +38,7 @@ For a complete list of requirements, see `requirements.txt`.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/rad-message-board.git
+   git clone https://github.com/lalomorales22/rad-message-board.git
    cd rad-message-board
    ```
 
