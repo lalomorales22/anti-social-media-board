@@ -38,8 +38,8 @@ For a complete list of requirements, see `requirements.txt`.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/lalomorales22/rad-message-board.git
-   cd rad-message-board
+   git clone https://github.com/lalomorales22/anti-social-media-board.git
+   cd anti-social-media-board
    ```
 
 2. Create a virtual environment and activate it:
